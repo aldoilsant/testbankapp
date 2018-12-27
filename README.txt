@@ -2,7 +2,7 @@ BANKAPP
 
 José Alberto Domínguez Illobre
 
-REQUERIMIENTOS:
+REQUISITOS:
 
 1. La aplicación ha sido desarrollada para .NET Framework 4.6.1.
 
