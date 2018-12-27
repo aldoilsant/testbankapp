@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[Account]
+(
+	[Id] INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+	ClientId INT NOT NULL,
+	FOREIGN KEY(ClientId) REFERENCES Client(Id) ON DELETE CASCADE,
+	Number CHAR(20) NOT NULL,
+	Description VARCHAR(MAX)
+
+)
