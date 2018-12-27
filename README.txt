@@ -11,6 +11,7 @@ INSTALACIÓN:
 1. Descargar/clonar repositorio GIT: https://github.com/aldoilsant/testbankapp
 2. Abrir carpeta "publish".
 3. Ejectutar BankApp.application para instalación en un click.
+4. Es posible que se reciba una notificación de Windows Defender la primera vez que se ejecute la aplicación (dado que no está firmada).
 
 USO:
 
